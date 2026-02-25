@@ -56,8 +56,8 @@ Interpretation of the data attributes found on [lifearchitect.ai - Models Table]
 
 * Released in 2024 because the original MMLU got too easy — top models were acing it, making it hard to tell them apart  
   * [https://arxiv.org/pdf/2406.01574](https://arxiv.org/pdf/2406.01574)  
-*   \- Harder questions, and 10 answer choices instead of 4, so guessing is much less likely to work  
-*   \- Same idea though: percentage correct out of 100
+*   Harder questions, and 10 answer choices instead of 4, so guessing is much less likely to work  
+*   Same idea though: percentage correct out of 100
 
 Why do these matter?
 
